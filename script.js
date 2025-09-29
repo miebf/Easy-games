@@ -1,9 +1,9 @@
 const games = [
   {
-    name: "This Game",
-    folder: "This-game",
+    name: "Tradwife",
+    folder: "Tradwife",
     //thumbnail: "This-game/assets/thumbnail.png", // Make a small preview image
-    description: "Collect the key and find the right room!"
+    description: "Play as a Tradwife!"
   },
   {
     name: "Another Game",
