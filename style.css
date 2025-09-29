@@ -17,6 +17,15 @@ h1 {
   font-size: 2em;
 }
 
+/* New intro styling */
+.intro {
+  max-width: 700px;
+  margin: 15px auto 0 auto;
+  font-size: 1.1em;
+  line-height: 1.5;
+  color: #ccc;
+}
+
 #game-list {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -40,4 +49,12 @@ h1 {
 .game-card img {
   max-width: 100%;
   border-radius: 5px;
+}
+
+/* Footer styling */
+footer {
+  background: #111;
+  padding: 10px;
+  font-size: 0.9em;
+  color: #888;
 }
